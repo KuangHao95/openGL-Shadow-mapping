@@ -2,8 +2,6 @@
 
 //============================================================================
 // STUDENT NAME: Kuang Hao	
-// MATRIC NO.  : A0191488N
-// NUSNET ID   : E0338132
 // COMMENTS TO GRADER: I finished DrawSceneWithProjection function step by step
 // as instructed, and implemented PCF using what was mentioned in the lecture.
 //============================================================================
