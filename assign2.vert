@@ -1,11 +1,7 @@
 // FILE: assign2.vert
 
 //============================================================================
-// STUDENT NAME: 
-// MATRIC NO.  : 
-// NUSNET ID   : 
-// COMMENTS TO GRADER: 
-//
+// STUDENT NAME: Kuang Hao
 //============================================================================
 
 // VERTEX SHADER
